@@ -1,3 +1,9 @@
+NOTE:
+
+This project makes use of a stripped down (and modified by me) version of Emotiv's community SDK 
+available here: https://github.com/Emotiv/community-sdk. The borrowed and modified code has also been
+included with this repository to assist anyone who wants to use this with ease. I do not own credit
+for the aforementioned portion of the code. The SDK license is available at the above link.
 --------------------------------------------------------------------------------------------------
 REQUIREMENTS:
 

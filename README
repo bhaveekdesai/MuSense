@@ -1,0 +1,48 @@
+--------------------------------------------------------------------------------------------------
+REQUIREMENTS:
+
+Software:
+	Microsoft Windows 7 64 bit
+	MATLAB r2015a for windows 64 bit
+	Python 2.7.11
+	Emotiv Testbench Suite
+
+Hardware:
+	Emotiv EPOC headset
+	USB receiver for Emotiv EPOC headset
+	Stereo earphones
+--------------------------------------------------------------------------------------------------
+STEPS TO RUN:
+
+1. Unzip this folder at any location
+2. Open MATLAB
+3. Navigate to the unzipped project folder
+4. Open "app.m" inside MATLAB
+5. Run "app.m"
+6. Open Emotiv Testbench suite
+7. Remove paddings of all the sensors in the headset
+8. Soak them in water/saline solution for a minute
+9. Plug the paddings back
+10. Wear the headset such that the imprint "EPOC" at the back of the headset reads up
+11. Ensure all the sensors have good contact with skin.
+12. Turn ON the headset
+13. Observe the indicator mappings light up in the testbench suite
+14. Move the headset a bit and/or adjust individual sensors in order to get atleast 8
+	indicators GREEN
+15. Once this is achieved, you're good to go ahead with running the MuSense application
+16. Put on the earphones
+17. On the "app" window, click "start/stop" button
+18. Sit back and relax
+19. You don't need to keep your eyes open to check the meditation level which pops up
+	once the application starts
+20. Listen for an audio cue - Once the application begins, you'd hear an instrumental track,
+	initially being played in mono. A shift from mono to 3D signifies you've crossed 25%
+	meditative state. The goal is to reach 100%
+21. Once 25% mark is crossed, the sound being played starts rotating inside the head in
+	counterclockwise direction. The direction reverses once 50% mark is crossed; the direction
+	reverses again and the sound rotates at a higher pace once 75% mark is crossed.
+22. The user can make use of the slider to set the difficulty level. Higher the level, more
+	effort on the part of the user is required to elevate the meditation level
+23. The user can click on the "start/stop" button again to stop the application 
+
+--------------------------------------------------------------------------------------------------
